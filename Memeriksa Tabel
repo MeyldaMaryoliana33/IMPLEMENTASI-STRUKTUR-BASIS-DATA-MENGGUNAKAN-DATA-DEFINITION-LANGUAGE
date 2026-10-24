@@ -1,0 +1,7 @@
+DESC kelas_kuliah;
+DESC mata_kuliah;
+DESC dosen;
+DESC program_studi;
+DESC mahasiswa;
+DESC nilai;
+DESC KRS;
